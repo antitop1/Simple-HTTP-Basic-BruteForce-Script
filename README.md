@@ -24,3 +24,9 @@
 git clone https://github.com/antitop1/basic-auth-bruteforcer.git
 cd basic-auth-bruteforcer
 pip install -r requirements.txt
+python main.py
+
+## Перед запуском
+
+Запустите прокси на 127.0.0.1:2080, для корректной работы скрипта
+Замените example.com в main.py на корректный сайт
