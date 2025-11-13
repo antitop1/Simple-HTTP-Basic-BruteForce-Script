@@ -1,0 +1,6 @@
+pycache/
+*.pyc
+*.log
+results.txt
+usernames.txt
+passwords.txt
