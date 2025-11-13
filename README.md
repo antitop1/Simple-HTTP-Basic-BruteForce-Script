@@ -21,6 +21,6 @@
 
 ## 🛠 Установка
 
-git clone https://github.com/ваш-username/basic-auth-bruteforcer.git
+git clone https://github.com/antitop1/basic-auth-bruteforcer.git
 cd basic-auth-bruteforcer
 pip install -r requirements.txt
