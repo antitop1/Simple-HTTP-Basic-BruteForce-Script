@@ -1,2 +1,26 @@
-# Simple-HTTP-Basic-BruteForce-Script
-Многопоточный инструмент для брутфорса Basic Authentication сайтов.
+# Basic Authentication Bruteforcer
+
+Многопоточный инструмент для проверки стойкости Basic Authentication через перебор учетных данных.
+
+## ⚠️ Предупреждение
+
+Этот инструмент предназначен **ТОЛЬКО** для:
+- Тестирования собственных систем
+- Образовательных целей 
+- Проверки безопасности с явного разрешения владельца
+
+**Использование без разрешения - незаконно!**
+
+## 📦 Возможности
+
+- Многопоточный перебор
+- Поддержка SOCKS5 прокси
+- Реалистичные User-Agent заголовки
+- Поддержка таймаутов
+- Индикация прогресса
+
+## 🛠 Установка
+
+git clone https://github.com/ваш-username/basic-auth-bruteforcer.git
+cd basic-auth-bruteforcer
+pip install -r requirements.txt
