@@ -30,3 +30,5 @@ python main.py
 
 Запустите прокси на 127.0.0.1:2080, для корректной работы скрипта
 Замените example.com в main.py на корректный сайт
+
+SEO: Basic Authentication bruteforcer, password bruteforce, multithreaded authentication tester, SOCKS5 proxy support, ethical hacking tool, Python security script, login security testing, user-agent spoofing, pentest automation.
